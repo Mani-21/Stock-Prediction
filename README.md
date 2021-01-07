@@ -6,3 +6,6 @@ You need to enter the ticker of the company/stock. For example, Google - 'GOOGL'
 Then with the available data a LSTM neural network is created and trained. Then provide the date for the model to predict the price.
 
 Finally a plot with predicted values is displayed.
+
+# youtube video link
+https://youtu.be/FbEatPhQke0
