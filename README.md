@@ -9,3 +9,6 @@ Finally a plot with predicted values is displayed.
 
 # youtube video link
 https://youtu.be/FbEatPhQke0
+
+# i am competing for 
+Best Overall, Most Practical/Scalable, Best Impact, Best Original, Best Design, Best First Time Hack, and Popular Vote Winner.
